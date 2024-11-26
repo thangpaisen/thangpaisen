@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nguyễn Hữu Thắng and I'm a React Native Developer, from Việt Nam</h2>
+<h2 align="left">Hi 👋! My name is Nguyễn Hữu Thắng and I'm a React Native & ReactJS Developer, from Việt Nam</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://scontent.fdad3-5.fna.fbcdn.net/v/t1.6435-9/196956397_954373075322755_843749204901153234_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=upRYTsjVwOoAX8A-Vn3&_nc_ht=scontent.fdad3-5.fna&oh=00_AfCzLIETpXjLLncbye8HwV8OOAGxFSoLirSJPnc0jXJRJg&oe=6539109D"  />
+<img align="right" height="150" src="https://i.imgur.com/1NSEraf.jpeg"  />
 
 ###
 
@@ -38,14 +38,17 @@
 ###
 
 <div align="left">
-  <a href="thangpaisen@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:thangpaisen@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://www.facebook.com/ThangPaisen/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-  <a href="thangpaisen@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
+  <a href="mailto:thangpaisen@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/thangpaisen/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
 
